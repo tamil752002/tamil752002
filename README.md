@@ -17,10 +17,5 @@ www.linkedin.com/in/tamilselvan-ravichandran-376649258
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 ![Docker](https://img.shields.io/badge/Docker-20.10-blue)
 
-### 🏆 My Open Source Contributions:
 
-| Repository | Pull Request | Status |
-|------------|--------------|--------|
-| [Awesome Project](https://github.com/owner/repo) | [#42](https://github.com/owner/repo/pull/42) | ✅ Merged |
-| [Another Cool Repo](https://github.com/owner/another-repo) | [#101](https://github.com/owner/another-repo/pull/101) | 🛠️ In Review |
 
