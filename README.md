@@ -13,10 +13,8 @@ www.linkedin.com/in/tamilselvan-ravichandran-376649258
 
 ## Programming Languages & Tools
 
-- **Languages**: Python, JavaScript, Java, C++, HTML/CSS, SQL
-- **Frameworks**: React, Angular, Node.js, Django
-- **Databases**: MySQL, MongoDB
-- **Tools**: Git, Docker, AWS, VS Code, Jenkins
-- **Others**: Kubernetes, Terraform
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![Docker](https://img.shields.io/badge/Docker-20.10-blue)
 
 
