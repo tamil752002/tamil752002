@@ -11,6 +11,12 @@ arunmani12
 Connect with me:
 www.linkedin.com/in/tamilselvan-ravichandran-376649258
 
-Languages and Tools:
-bootstrap css3 express firebase git heroku html5 javascript mongodb nodejs postman python react reactnative redux sass typescript
+## Programming Languages & Tools
+
+- **Languages**: Python, JavaScript, Java, C++, HTML/CSS, SQL
+- **Frameworks**: React, Angular, Node.js, Django
+- **Databases**: MySQL, MongoDB
+- **Tools**: Git, Docker, AWS, VS Code, Jenkins
+- **Others**: Kubernetes, Terraform
+
 
