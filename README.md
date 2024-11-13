@@ -1,6 +1,6 @@
 Hi 👋, I'm Tamilselvan
 A passionate Mern stack(developer) from India
-arunmani12
+
 
 👯 I’m looking to collaborate on exciting projects
 
